@@ -31,4 +31,4 @@ vim greet.adb
 
 10. gprbuild greet.adb (to compile the file)
 
-11. /.greet (to run the program and test the output)
+11. ./greet (to run the program and test the output)
