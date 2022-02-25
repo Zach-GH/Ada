@@ -3,7 +3,7 @@ Teaching myself how to program using ADA
 
 1. Using my Macbook (ARM), I used a tool called Parallels to spin up a virtual machine of Debian Linux.
 
-2. I opened a Terminal and used the following commands
+2. I opened Terminal and used the following commands
 
 apt search libaws
 apt search gprbuild
