@@ -1,7 +1,7 @@
 # Ada
 Teaching myself how to program using ADA following 
 
-https://learn.adacore.com/courses/intro-to-ada/chapters/imperative_language.html#hello-world
+https://learn.adacore.com/courses/intro-to-ada/index.html#
 
 1. Using my Macbook (ARM), I used a tool called Parallels to spin up a virtual machine of Debian Linux.
 
